@@ -1,0 +1,4 @@
+interface:
+  display_name: "Homepage Reference Analyzer"
+  short_description: "Analyze homepage references for practical design insights"
+  default_prompt: "Use $homepage-reference-analyzer to analyze and compare the provided homepage reference research."
